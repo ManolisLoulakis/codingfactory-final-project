@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+bin/
+obj/
+dist/
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.temp
